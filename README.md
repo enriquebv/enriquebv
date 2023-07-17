@@ -1,10 +1,10 @@
 <h1>Hey!</h1>
 
-<p>I'm Enrique, Fullstack developer from <b>Spain</b>. </p>
-<p>
-  <a href="https://www.twitter.com/enriquedev_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/enrique-bernabeu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  </p>
+<ul>
+  <li>👋🏻 I'm Enrique, senior full-stack developer from 🇪🇸 <b>Spain</b>.</li>
+  <li>💬 You can get in touch with me on Twitter <a href="https://twitter.com/enriquedev_">@enriquedev_</a>, and <a href="https://www.linkedin.com/in/enrique-bernabeu">LinkedIn</a> .</li>
+</ul>
+
 <h2>Things I code with</h2>
   <p>
   <img alt="JavaScript" src="https://shields.io/badge/-JavaScript-2E2E2E?logo=JavaScript&logoColor=FFF&style=flat-square" />
@@ -39,6 +39,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=amazon&logoColor=white" /> 
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital%20Ocean-0064a5?style=flat-square&logo=digitalocean&logoColor=white" /> 
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-43853D?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000?style=flat-square&logo=serverless&logoColor=white" />  
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />  
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
@@ -46,4 +47,5 @@
 <h2>Things I'm learning</h2>
 <p>
 <img alt="Go" src="https://img.shields.io/badge/-Go-007ACC?style=flat-square&logo=go&logoColor=white" />  
+<img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-2088FF?style=flat-square&logo=webassembly&logoColor=white" />  
 </p>
