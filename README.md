@@ -1,6 +1,10 @@
 <h1>Hey!</h1>
 
 <p>I'm Enrique, Fullstack developer from <b>Spain</b>. </p>
+<p>
+  <a href="https://www.twitter.com/enriquedev_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/enrique-bernabeu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  </p>
 <h2>Things I code with</h2>
   <p>
   <img alt="JavaScript" src="https://shields.io/badge/-JavaScript-2E2E2E?logo=JavaScript&logoColor=FFF&style=flat-square" />
