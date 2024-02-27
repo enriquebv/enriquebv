@@ -1,8 +1,8 @@
 <h1>Hey!</h1>
 
 <ul>
-  <li>👋🏻 I'm Enrique, senior full-stack developer from 🇪🇸 <b>Spain</b>.</li>
-  <li>💬 You can get in touch with me on Twitter <a href="https://twitter.com/enriquedev_">@enriquedev_</a>, and <a href="https://www.linkedin.com/in/enrique-bernabeu">LinkedIn</a> .</li>
+  <li>👋🏻 I'm Enrique, senior developer from 🇪🇸 <b>Spain</b>.</li>
+  <li>💬 You can get in touch with me on <a href="https://www.linkedin.com/in/enrique-bernabeu">LinkedIn</a> .</li>
 </ul>
 
 <h2>Things I code with</h2>
